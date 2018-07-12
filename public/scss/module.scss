@@ -1,0 +1,11 @@
+#carouselExampleControls .carousel-caption {
+    top: 50%;
+ transform: translateY(-50%);
+ bottom: initial;
+ }
+
+ .card-class{
+    margin-top: 5vh;
+    justify-content: space-around;
+    margin-bottom: 5vh;
+}

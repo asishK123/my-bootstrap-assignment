@@ -1,0 +1,96 @@
+header{
+    background-color: #4099FF;
+    height: 15vh;
+    width: 100%;
+    text-align: center;
+    color: red;
+}
+
+
+#carouselExampleControls img{
+    height: 92vh;
+    width: 100%;
+}
+
+.card-class{
+    margin-top: 5vh;
+    justify-content: space-around;
+    margin-bottom: 5vh;
+}
+
+#carouselExampleControls .carousel-caption {
+    top: 50%;
+ transform: translateY(-50%);
+ bottom: initial;
+ }
+
+.hero-class img{
+    height: 100%;
+    width: 100%;
+}
+
+section{
+    text-align: center;
+    color: aquamarine;
+    margin-bottom: 2vh;
+}
+
+footer{
+    background: #4099FF;
+}
+
+#social_icon_footer {
+    text-align: center;
+    padding: 14px 0;
+  }
+  #social_icon_footer .social:hover {
+    transform: scale(1.1);
+  }
+  
+  #social_icon_footer .social {
+    transform: scale(0.8);
+    transition-duration: 0.5s;
+  }
+  #social_icon_footer a {
+    color: #333;
+  }
+  #social_icon_footer #social-fb:hover {
+    color: #3B5998;
+  }
+  #social_icon_footer #social-tw:hover {
+    color: #4099FF;
+  }
+  #social_icon_footer #social-gp:hover {
+    color: #d34836;
+  }
+  #social_icon_footer #social-em:hover {
+    color: #f39c12;
+  }
+
+  
+  
+   #header-color{
+    color: rgb(0, 0, 0);
+   }
+
+   #card-button-color{
+   background-color: black; color: white;
+   }
+
+   #form-button-color{
+    background-color: black; color: white;
+   }
+
+   #jumbotron-button-color{
+    background-color: black; color: white;
+   }
+
+   #background-color-header{
+    background-color: black; color: white;
+   }
+
+   body, html{
+       width: 100%;
+   }
+
+  

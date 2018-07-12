@@ -1,0 +1,17 @@
+header {
+  background-color: #4099FF;
+  height: 15vh;
+  width: 100%;
+  text-align: center;
+  color: red; }
+
+body, html {
+  width: 100%; }
+
+section {
+  text-align: center;
+  color: aquamarine;
+  margin-bottom: 2vh; }
+
+footer {
+  background: #4099FF; }
